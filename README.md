@@ -1,8 +1,37 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My personal portfolio website showcasing my skills, projects, achievements, and journey as a developer.
+This portfolio represents my work, learning progress, and passion for building real-world, impactful applications.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👋 About Me
+
+Hi, I’m **Rishi Kothari** 👨‍💻  
+A passionate **Frontend Developer** and **MERN Stack Learner** with a strong interest in building modern, user-friendly, and problem-solving web applications. I enjoy turning ideas into reality using code and continuously improving my technical skills.
+
+---
+
+## Portfolio Highlights
+
+-  Developer profile & introduction
+-  Technical skills & tools
+-  Projects with live demos and GitHub links
+-  Certifications & achievements
+-  Education details
+-  Contact & social links
+-  Fully responsive design
+-  Smooth animations and modern UI
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **React.js**
+- **Vite**
+- **Git & GitHub**
+
+
